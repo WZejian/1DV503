@@ -1,0 +1,4 @@
+payment_method_id,method
+1,Wire Transfer
+2,Cash
+3,Swish
